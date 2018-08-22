@@ -1,0 +1,3 @@
+empty_page "", "My first weaver page" do
+	text File.read("mm.html")
+end
